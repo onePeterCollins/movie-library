@@ -7,7 +7,7 @@ const nextConfig = {
     OMDB_API_KEY: "910b8360",
     OMDB_API_TIMEOUT: 600000,
     OMDB_API_URL: "https://www.omdbapi.com",
-    UNOGS_API_KEY: "e05ba4c10bmsh8710cdaebc5c526p1b79adjsn98197bec9d7a",
+    UNOGS_API_KEY: "9fd214fac0msh6f5b240f1e44380p18db5ejsnb2f6c85a5c16",
     UNOGS_API_TIMEOUT: 600000,
     UNOGS_API_URL: "https://unogs-unogs-v1.p.rapidapi.com/search/titles",
     UNOGS_HOST_URL: "unogs-unogs-v1.p.rapidapi.com",
